@@ -33,6 +33,8 @@ st.download_button(
             mime='application/pdf'
         )
 
+left.image("Foto.jpg", width=200)
+
 st.write("lecjaksdavid@gmail.com")
 
 
