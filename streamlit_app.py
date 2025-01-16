@@ -44,7 +44,7 @@ right.write("*Ich finde It faszienirend, weil es die Zukunft beeinflusst*")
 
 st.header("IT-Kompetenzen",anchor=False, divider="blue")
 st.markdown("""
-            - Webentwicklung: Grundlagen in HTML, CSS und Streamlit (Fullstack-Framework)
+            - Webentwicklung: Grundlagen in HTML, CSS und Streamlit 
             -  Programmierung: Anfänger in  Python, Entwicklung kleiner Anwendungen und Skripte
             -  Office-Suite: Umgang mit Microsoft Word, Excel und PowerPoint
             """)
