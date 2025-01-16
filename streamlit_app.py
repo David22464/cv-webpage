@@ -67,7 +67,7 @@ st.markdown("""
 
 st.header("Interessen und Hobbys",anchor=False,divider="blue")
 st.markdown("""
-        - Basketball: Spiele in keinem Klub    
+        - Ich spiele gerne Basketball mit freunden   
             """)
 
 
